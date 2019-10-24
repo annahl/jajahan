@@ -151,6 +151,8 @@ $items = [
     [ 'name' => 'THE ROYAL BANK OF SCOTLAND BERHAD ', 'swift_code' => 'ABNAMYKL', 'bank_code' => 'ABNA', 'is_listed' => 1 ],
     [ 'name' => 'THE ROYAL BANK OF SCOTLAND BERHAD, PENANG, PENANG', 'swift_code' => 'ABNAMYKLPNG', 'bank_code' => 'ABNA', 'is_listed' => 0 ],
     [ 'name' => 'THE ROYAL BANK OF SCOTLAND PLC LABUAN BRANCH', 'swift_code' => 'ABNAMY2A', 'bank_code' => 'ABNA', 'is_listed' => 0 ],
+    [ 'name' => 'THE HONGKONG AND SHANGHAI BANKING CORPORATION LIMITED, LABUAN', 'swift_code' => 'HSBCMYKA', 'bank_code' => 'HSBC', 'is_listed' => 0 ],
+    [ 'name' => 'TMC SERVICES SDN. BHD, KUALA LUMPUR', 'swift_code' => 'TMCBMYKL', 'bank_code' => 'TMCB', 'is_listed' => 0 ],
     [ 'name' => 'UNITED OVERSEAS BANK (MALAYSIA) BERHAD', 'swift_code' => 'UOVBMYKL', 'bank_code' => 'UOVB', 'is_listed' => 1 ],
     [ 'name' => 'UNITED OVERSEAS BANK (MALAYSIA) BERHAD, (CUSTODIAN AND NOMINEES DEPARTMENT)', 'swift_code' => 'UOVBMYKLCND', 'bank_code' => 'UOVB', 'is_listed' => 0 ],
     [ 'name' => 'UNITED OVERSEAS BANK (MALAYSIA) BERHAD', 'swift_code' => 'UOVBMY2L', 'bank_code' => 'UOVB', 'is_listed' => 0 ],
